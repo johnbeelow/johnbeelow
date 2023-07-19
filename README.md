@@ -16,8 +16,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=johnbeelow&theme=radical)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnbeelow&theme=radical) 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnbeelow&theme=radical)
-
-
