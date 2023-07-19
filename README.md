@@ -14,5 +14,7 @@
 
 ## GitHub Statistics:
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbeelow&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=johnbeelow&theme=radical)](https://git.io/streak-stats)
 
