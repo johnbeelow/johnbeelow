@@ -5,7 +5,6 @@
 ## Connect with me:
 <p align="left">
 <a href="https://t.me/johnbeelow" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="#" /></a>
-<a href="https://instagram.com/dj_beelow" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="#" /></a>
 </p>
 
 ## My Stack:
