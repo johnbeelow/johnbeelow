@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm John</h1> <h3 align="center">Frontend developer</h3>
-
 ![](https://komarev.com/ghpvc/?username=johnbeelow)
 
 ## Connect with me:
