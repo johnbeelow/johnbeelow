@@ -2,7 +2,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://t.me/johnbeelow" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="#" /></a>
+<a href="https://t.me/johnbeelow" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /></a>
 </p>
 
 ## My Stack:
