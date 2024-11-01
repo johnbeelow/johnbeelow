@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=johnbeelow)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=johnbeelow&data=followers,repositories,stars,commits&theme=darkmode)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
 
 
 ## Connect with me:
