@@ -21,13 +21,4 @@
 <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="40" height="40"/>&nbsp;
 <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="40" height="40"/>&nbsp;
 
-## GitHub Statics:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbeelow&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=johnbeelow&theme=radical)](https://git.io/streak-stats)
-
-https://vitejs.dev/logo.svg
-https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg
-
 <img src=" " width="40" height="40"/>&nbsp;
