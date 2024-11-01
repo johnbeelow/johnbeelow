@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=johnbeelow)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=javasript,typescript,vue,vitejs,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
-
 ## Connect with me:
 <p align="left">
 <a href="https://t.me/johnbeelow" target="blank"><img align="center" src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="25" height="25"/></a>
