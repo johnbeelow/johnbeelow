@@ -6,15 +6,9 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-**Frontend Developer** with a passion for crafting interactive and efficient web applications. I enjoy working with modern tools and frameworks to build scalable and user-friendly interfaces.
-
----
-
 ## 🚀 Tech Stack
 
-### **Languages & Tools**  
+### **Languages**  
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />&nbsp;
@@ -51,8 +45,4 @@
    </a>
 </p>
 
----
 
-<p align="center">
-   <i>Let's build something amazing together!</i> 🚀
-</p>
