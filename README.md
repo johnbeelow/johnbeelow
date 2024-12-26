@@ -44,5 +44,3 @@
       <img src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" title="Telegram" width="40" height="40" />
    </a>
 </p>
-
-
