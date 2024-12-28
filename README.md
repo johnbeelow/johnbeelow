@@ -1,7 +1,9 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=johnbeelow&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
+
 ---
+
 <h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
