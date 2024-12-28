@@ -3,8 +3,8 @@
 </p>
 
 ---
-
-
+Welcome to my GitHub page! I'm a Frontend Developer with experience since 2023. I love my work, my family, and sports.
+---
 <h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
