@@ -3,7 +3,10 @@
 </p>
 
 ---
-Welcome to my GitHub page! I'm a Frontend Developer with experience since 2023. I love my work, my family, and sports.
+
+<p align="center"><i>Welcome to my GitHub page! I'm a Frontend Developer with experience since 2023.</i></p>
+<p align="center"><i>I love my work, my family, and sports.</i></p>
+
 ---
 <h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
