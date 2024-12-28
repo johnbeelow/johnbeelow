@@ -6,24 +6,24 @@
 
 <h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="40" height="40" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>&nbsp;
-   <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" title="React Router" width="40" height="40" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40" />&nbsp;
-   <img src="https://media.zeemly.com/zeemly/product/material-ui.png" title="Material UI" width="40" height="40" />&nbsp;
-   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" title="Ant Design" width="40" height="40" />&nbsp;
-   <img src="https://vitejs.dev/logo.svg" title="Vite" width="40" height="40"/>&nbsp;
-   <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" title="Webpack" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;
-   <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" title="ESLint" width="40" height="40"/>&nbsp;
-   <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" title="Prettier" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="JestJS" width="40" height="40"/>&nbsp;
-   <img src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library" width="40" height="40" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="30" height="30"/>&nbsp;
+   <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" title="React Router" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="30" height="30" />&nbsp;
+   <img src="https://media.zeemly.com/zeemly/product/material-ui.png" title="Material UI" width="30" height="30" />&nbsp;
+   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" title="Ant Design" width="30" height="30" />&nbsp;
+   <img src="https://vitejs.dev/logo.svg" title="Vite" width="30" height="30"/>&nbsp;
+   <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" title="Webpack" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="30" height="30"/>&nbsp;
+   <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" title="ESLint" width="30" height="30"/>&nbsp;
+   <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" title="Prettier" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="JestJS" width="30" height="30"/>&nbsp;
+   <img src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library" width="30" height="30" />&nbsp;
 </p>
 
 ---
