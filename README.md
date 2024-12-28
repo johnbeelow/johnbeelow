@@ -4,9 +4,8 @@
 
 ---
 
-<p align="center">
-<h3>⚙️ Tech Stack</h3>
-</p>
+
+<h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />&nbsp;
@@ -28,9 +27,7 @@
 </p>
 
 ---
-<p align="center">
-✉️ Connect with Me
-</p>
+<h3 align="center">✉️ Connect with Me</h3>
 
 <p align="center">
    <a href="https://t.me/johnbeelow" target="blank">
