@@ -1,14 +1,12 @@
-<h1 align="center">Hi there 👋, I'm John Beelow</h1>
-
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=johnbeelow&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
+<p align="center">
 ## 🚀 Tech Stack
-
-
+</p>
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />&nbsp;
@@ -30,10 +28,11 @@
 </p>
 
 ---
-
+<p align="center">
 ## 📫 Connect with Me
+</p>
 
-<p align="left">
+<p align="center">
    <a href="https://t.me/johnbeelow" target="blank">
       <img src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" title="Telegram" width="40" height="40" />
    </a>
