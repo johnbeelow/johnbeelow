@@ -33,6 +33,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;
    <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" title="ESLint" width="40" height="40"/>&nbsp;
    <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" title="Prettier" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="JestJS" width="40" height="40"/>&nbsp;
 </p>
 
 ---
