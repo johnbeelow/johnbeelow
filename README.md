@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-## 🚀 Tech Stack
+⚙️ Tech Stack
 </p>
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
@@ -29,7 +29,7 @@
 
 ---
 <p align="center">
-## 📫 Connect with Me
+✉️ Connect with Me
 </p>
 
 <p align="center">
