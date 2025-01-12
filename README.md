@@ -27,11 +27,14 @@
 </p>
 
 ---
-<h3 align="center">⚙️ Pet-Projects:</h3>
-https://github.com/johnbeelow/films-react
-https://github.com/johnbeelow/chat-js
-https://github.com/johnbeelow/weather-js
----
+   <h3>⚙️ Pet-Projects:</h3>
+   <p style="text-align: center; font-size: 16px;">
+      <a href="https://github.com/johnbeelow/films-react" target="_blank">🎥 Films</a><br>
+      <a href="https://github.com/johnbeelow/chat-js" target="_blank">💬 Messenger</a><br>
+      <a href="https://github.com/johnbeelow/weather-js" target="_blank">🌦️ Weather</a>
+   </p>
+
+   <hr style="width: 80%; border: 1px solid #ccc;"/>
 
 <h3 align="center">✉️ Connect with Me</h3>
 
