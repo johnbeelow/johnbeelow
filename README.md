@@ -27,8 +27,8 @@
 </p>
 
 ---
-   <h3 align="center">>⚙️ Pet-Projects:</h3>
-   <p style="text-align: center; font-size: 16px;">
+   <h3 align="center">⚙️ Pet-Projects:</h3>
+   <p align="center">
       <a href="https://github.com/johnbeelow/films-react" target="_blank">🎥 Films</a><br>
       <a href="https://github.com/johnbeelow/chat-js" target="_blank">💬 Messenger</a><br>
       <a href="https://github.com/johnbeelow/weather-js" target="_blank">🌦️ Weather</a>
