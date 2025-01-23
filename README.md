@@ -27,6 +27,9 @@
    <img src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library" width="35" height="35" />&nbsp;
 </p>
 
+---
+
+<h3 align="center">✉️ Connect witch me</h3>
 <p align="center">
    <a href="https://t.me/johnbeelow" target="blank">
       <img src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" title="Telegram" width="40" height="40" />
