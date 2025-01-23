@@ -27,19 +27,6 @@
    <img src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library" width="35" height="35" />&nbsp;
 </p>
 
-
----
-   <h3 align="center">📦 Projects:</h3>
-   <p align="center">
-      <a href="https://github.com/johnbeelow/films-react" target="_blank">🎥 Films</a><br>
-      <a href="https://github.com/johnbeelow/chat-js" target="_blank">💬 Messenger</a><br>
-      <a href="https://github.com/johnbeelow/weather-js" target="_blank">🌦️ Weather</a>
-   </p>
-
-   <hr style="width: 80%; border: 1px solid #ccc;"/>
-
-<h3 align="center">✉️ Connect with Me</h3>
-
 <p align="center">
    <a href="https://t.me/johnbeelow" target="blank">
       <img src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" title="Telegram" width="40" height="40" />
