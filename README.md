@@ -11,6 +11,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS/SCSS" width="35" height="35"/>&nbsp;
+   <img src="https://brandeps.com/icon-download/T/Tailwind-css-icon-vector-02.svg" title="Tailwind CSS" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="35" height="35" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="35" height="35"/>&nbsp;
    <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" title="React Router" width="35" height="35" />&nbsp;
