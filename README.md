@@ -13,7 +13,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS/SCSS" width="35" height="35"/>&nbsp;
    <img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" title="Tailwind CSS" width="35" height="35"/>&nbsp;
    <img src="https://media.zeemly.com/zeemly/product/material-ui.png" title="Material UI" width="35" height="35" />&nbsp;
-   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" title="Ant Design" width="35" height="35" />&nbsp;
+   <img src="https://flowbite-react.com/favicon.svg" title="Flowbite React" width="35" height="35" />&nbsp;
    
    <br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="35" height="35" />&nbsp;
