@@ -25,8 +25,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="35" height="35"/>&nbsp;
    <img src="https://vitejs.dev/logo.svg" title="Vite" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="35" height="35"/>&nbsp;
-   <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" title="ESLint" width="35" height="35"/>&nbsp;
-   <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" title="Prettier" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="JestJS" width="35" height="35"/>&nbsp;
    <img src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library" width="35" height="35" />&nbsp;
 </p>
