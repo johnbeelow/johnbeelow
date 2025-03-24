@@ -22,6 +22,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="35" height="35" />&nbsp;
    
    <br/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="35" height="35"/>&nbsp;
    <img src="https://vitejs.dev/logo.svg" title="Vite" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="35" height="35"/>&nbsp;
    <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" title="ESLint" width="35" height="35"/>&nbsp;
