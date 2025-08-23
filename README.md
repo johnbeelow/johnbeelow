@@ -10,11 +10,11 @@
 <p align="center">
 
 | JavaScript | TypeScript | HTML5 | CSS3 | SASS/SCSS |
-|------------|------------|-------|------|-----------|
+|:----------:|:----------:|:-----:|:----:|:---------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/> |
 
 | TailwindCSS | Material UI | Flowbite React |
-|-------------|-------------|----------------|
+|:-----------:|:-----------:|:--------------:|
 | <img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" width="45" height="45"/> | <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="45" height="45"/> | <img src="https://flowbite-react.com/favicon.svg" width="45" height="45"/> |
 
 </p>
@@ -25,11 +25,11 @@
 <p align="center">
 
 | React | Redux | React Router | Next.js | Vite |
-|-------|-------|--------------|---------|------|
+|:-----:|:-----:|:------------:|:-------:|:----:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/> | <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/> | <img src="https://vitejs.dev/logo.svg" width="45" height="45"/> |
 
 | Vue.js | Docker |
-|--------|--------|
+|:------:|:------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/> |
 
 </p>
@@ -40,7 +40,7 @@
 <p align="center">
 
 | Figma | Jest | Testing Library |
-|-------|------|-----------------|
+|:-----:|:----:|:---------------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45"/> | <img src="https://testing-library.com/img/octopus-64x64.png" width="45" height="45"/> |
 
 </p>
