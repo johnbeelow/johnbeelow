@@ -27,6 +27,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="JestJS" width="35" height="35"/>&nbsp;
    <img src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library" width="35" height="35" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="35" height="35" />&nbsp;
 </p>
 
 ---
