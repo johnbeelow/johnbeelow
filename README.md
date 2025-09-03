@@ -16,9 +16,9 @@
 |:-----------:|:-----------:|:--------------:|:-----:|:-----:|
 | <img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" width="45" height="45"/> | <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="45" height="45"/> | <img src="https://flowbite-react.com/favicon.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/> |
 
-| React Router | Next.js | Vite | Vue.js | Docker |
-|:------------:|:-------:|:----:|:-----:|:-----:|
-| <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/> | <img src="https://vitejs.dev/logo.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/> |
+| React Router | Next.js | Vite | Vue.js | 
+|:------------:|:-------:|:----:|:-----:|
+| <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/> | <img src="https://vitejs.dev/logo.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/> |
 
 | Figma | Jest | Testing Library |
 |:-----:|:----:|:---------------:|
