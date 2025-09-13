@@ -12,9 +12,9 @@
 |:----------:|:----------:|:-----:|:----:|:---------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/> |
 
-| TailwindCSS | Material UI | Flowbite React | React | Redux Toolkit |
-|:-----------:|:-----------:|:--------------:|:-----:|:-------------:|
-| <img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" width="45" height="45"/> | <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="45" height="45"/> | <img src="https://flowbite-react.com/favicon.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/> |
+| TailwindCSS | Material UI | React | Redux Toolkit |
+|:-----------:|:-----------:|:-----:|:-------------:|
+| <img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" width="45" height="45"/> | <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/> |
 
 | React Router | Next.js | Vite | Vue.js | Docker |
 |:------------:|:-------:|:----:|:-----:|:------:|
