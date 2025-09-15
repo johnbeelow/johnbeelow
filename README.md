@@ -22,4 +22,15 @@
 
 | Framer Motion | Zod | Figma | Jest | Testing Library | CI/CD |
 |:------------:|:---:|:-----:|:----:|:---------------:|:-----:|
-| <img src="https://seeklogo.com/images/F/framer-logo-9A0B1E7A0E-seeklogo.com.png" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45"/> | <img src="https://testing-library.com/img/octopus-64x64.png" width=
+| <img src="https://seeklogo.com/images/F/framer-logo-9A0B1E7A0E-seeklogo.com.png" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45"/> | <img src="https://testing-library.com/img/octopus-64x64.png" width="45" height="45"/> | <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="45" height="45"/> |
+
+</div>
+
+---
+
+<h3 align="center">✉️ Connect with me</h3>
+<p align="center">
+   <a href="https://t.me/johnbeelow" target="blank">
+      <img src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" title="Telegram" width="45" height="45" />
+   </a>
+</p>
