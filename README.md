@@ -16,13 +16,13 @@
 |:-----------:|:-----------:|:-----:|:-------------:|
 | <img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" width="45" height="45"/> | <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/> |
 
-| React Router | Next.js | Vite | Docker |
-|:------------:|:-------:|:----:|:------:|
-| <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/> | <img src="https://vitejs.dev/logo.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/> |
+| React Router | Next.js | Vite |
+|:------------:|:-------:|:----:|
+| <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/> | <img src="https://vitejs.dev/logo.svg" width="45" height="45"/> |
 
-| Figma | Jest | Testing Library | CI/CD |
-|:-----:|:----:|:---------------:|:-----:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45"/> | <img src="https://testing-library.com/img/octopus-64x64.png" width="45" height="45"/> | <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="45" height="45"/> |
+| Figma | Jest | Testing Library | 
+|:-----:|:----:|:---------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45"/> | <img src="https://testing-library.com/img/octopus-64x64.png" width="45" height="45"/> | 
 
 </div>
 
